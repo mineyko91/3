@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _3
 {
@@ -86,12 +87,24 @@ namespace _3
         {
             if (args.Length < 3 || args.Length % 2 == 0)
             {
-                throw new ArgumentException();
+                throw new ArgumentException("Invalid number of arguments");
             }
+
             else
             {
-                return args;
+                for (int i = 0; i < args.Length; i++)
+                {
+                    for (int j = i + 1; i < args.Length; j++)
+                    {
+                        if (args[i] == args[j])
+                        {
+                            throw new ArgumentException("Duplicates found");
+                        }
+                    }
+                }
             }
+
+            return args;
         }
     }
 }
