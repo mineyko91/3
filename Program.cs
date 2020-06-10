@@ -94,7 +94,7 @@ namespace _3
             {
                 for (int i = 0; i < args.Length; i++)
                 {
-                    for (int j = i + 1; i < args.Length; j++)
+                    for (int j = i + 1; j < args.Length; j++)
                     {
                         if (args[i] == args[j])
                         {
