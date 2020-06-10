@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0CDD9C39-4FAA-470B-A8B2-7376F195AED6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_#3</RootNamespace>
+    <RootNamespace>_33</RootNamespace>
     <AssemblyName>#3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

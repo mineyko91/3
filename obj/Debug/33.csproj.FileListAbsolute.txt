@@ -1,7 +1,0 @@
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\33.exe.config
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\33.exe
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\33.pdb
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\33.csprojAssemblyReference.cache
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\33.csproj.CoreCompileInputs.cache
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\33.exe
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\33.pdb

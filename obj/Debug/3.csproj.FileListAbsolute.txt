@@ -1,7 +1,0 @@
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\3.csprojAssemblyReference.cache
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\3.csproj.CoreCompileInputs.cache
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\#3.exe.config
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\#3.exe
-C:\Users\User\Dropbox\itransition\#3(1)\33\bin\Debug\#3.pdb
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\#3.exe
-C:\Users\User\Dropbox\itransition\#3(1)\33\obj\Debug\#3.pdb
